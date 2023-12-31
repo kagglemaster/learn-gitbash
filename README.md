@@ -1,2 +1,2 @@
 # learn-gitbash
-learning commands
+Git Cheat Sheat
